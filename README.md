@@ -22,9 +22,7 @@ En este curso aprenderás a dar tus primeros pasos en el mundo del **Data Scienc
 ## 🧠 Habilidades desarrolladas
 
 - Manipulación de datos con Python
-- Análisis y visualización básica de datos
-- Familiarización con herramientas esenciales como Jupyter y pandas
-- Lógica inicial para proyectos de ciencia de datos
+
 
 ---
 
